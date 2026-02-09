@@ -95,8 +95,10 @@ This project reinforced my interest in working at the intersection of **cosmolog
 ```bash
 pip install -r requirements.txt
 
-Train model
+###Train model
+```bash
 python train.py
 
-Evaluate on unseen test data
+###Evaluate on unseen test data
+```bash
 python test.py
