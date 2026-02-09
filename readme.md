@@ -94,3 +94,11 @@ This project reinforced my interest in working at the intersection of **cosmolog
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
+
+Train model
+python train.py
+
+Evaluate on unseen test data
+python test.py
+
+
